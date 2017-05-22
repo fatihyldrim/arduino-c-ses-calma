@@ -1,0 +1,8 @@
+C:\_Fatih\Çalışmalarım\C#\sesCal\SesCal\SesCal\bin\Debug\SesCal.exe
+C:\_Fatih\Çalışmalarım\C#\sesCal\SesCal\SesCal\bin\Debug\SesCal.pdb
+C:\_Fatih\Çalışmalarım\C#\sesCal\SesCal\SesCal\obj\Debug\SesCal.csprojResolveAssemblyReference.cache
+C:\_Fatih\Çalışmalarım\C#\sesCal\SesCal\SesCal\obj\Debug\SesCal.Form1.resources
+C:\_Fatih\Çalışmalarım\C#\sesCal\SesCal\SesCal\obj\Debug\SesCal.Properties.Resources.resources
+C:\_Fatih\Çalışmalarım\C#\sesCal\SesCal\SesCal\obj\Debug\SesCal.csproj.GenerateResource.Cache
+C:\_Fatih\Çalışmalarım\C#\sesCal\SesCal\SesCal\obj\Debug\SesCal.exe
+C:\_Fatih\Çalışmalarım\C#\sesCal\SesCal\SesCal\obj\Debug\SesCal.pdb
